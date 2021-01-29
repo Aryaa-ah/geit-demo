@@ -8,7 +8,7 @@ def subtract(x,y):
         return error
     return x-y
 def multiply(x,y):
-    pass
+    return x*y
     
 
 def divide(x,y):
